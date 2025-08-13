@@ -1,0 +1,109 @@
+{
+  "items": [
+    {
+      "name": "Apple",
+      "keywords": ["apple", "fruit", "red apple", "green apple"],
+      "water_consumption": 822,
+      "unit": "liters per kg",
+      "fun_fact": "That's enough water to fill 5 bathtubs! An apple a day keeps the doctor away, but uses more water than you might think."
+    },
+    {
+      "name": "Banana",
+      "keywords": ["banana", "yellow fruit", "tropical fruit"],
+      "water_consumption": 790,
+      "unit": "liters per kg",
+      "fun_fact": "Equivalent to 131 bottles of water! Bananas are mostly grown in tropical regions where water is precious."
+    },
+    {
+      "name": "Orange",
+      "keywords": ["orange", "citrus", "orange fruit"],
+      "water_consumption": 560,
+      "unit": "liters per kg",
+      "fun_fact": "Like running your shower for 28 minutes straight! Citrus fruits need lots of water to stay juicy."
+    },
+    {
+      "name": "Tomato",
+      "keywords": ["tomato", "red tomato", "vegetable", "fruit"],
+      "water_consumption": 214,
+      "unit": "liters per kg",
+      "fun_fact": "That's about 35 bottles of drinking water! Despite being 95% water themselves, tomatoes need lots more to grow."
+    },
+    {
+      "name": "Potato",
+      "keywords": ["potato", "tuber", "brown potato"],
+      "water_consumption": 287,
+      "unit": "liters per kg",
+      "fun_fact": "Enough to wash 14 loads of laundry! Potatoes are surprisingly thirsty crops."
+    },
+    {
+      "name": "Carrot",
+      "keywords": ["carrot", "orange vegetable", "root vegetable"],
+      "water_consumption": 131,
+      "unit": "liters per kg",
+      "fun_fact": "Like flushing a toilet 16 times! Carrots are among the more water-efficient vegetables."
+    },
+    {
+      "name": "Bread",
+      "keywords": ["bread", "loaf", "slice", "white bread", "wheat bread"],
+      "water_consumption": 1608,
+      "unit": "liters per kg",
+      "fun_fact": "That's more water than most people drink in 2 years! Wheat production is very water-intensive."
+    },
+    {
+      "name": "Rice",
+      "keywords": ["rice", "white rice", "grain", "bowl"],
+      "water_consumption": 2497,
+      "unit": "liters per kg",
+      "fun_fact": "Equivalent to 416 bottles of water! Rice paddies need to be flooded, making rice one of the thirstiest crops."
+    },
+    {
+      "name": "Beef",
+      "keywords": ["beef", "meat", "steak", "hamburger", "cow"],
+      "water_consumption": 15415,
+      "unit": "liters per kg",
+      "fun_fact": "That's enough water to fill a small swimming pool! Livestock requires water for drinking, feed production, and processing."
+    },
+    {
+      "name": "Chicken",
+      "keywords": ["chicken", "poultry", "meat", "bird"],
+      "water_consumption": 4325,
+      "unit": "liters per kg",
+      "fun_fact": "Like taking 288 showers! Much more water-efficient than beef, but still significant."
+    },
+    {
+      "name": "Egg",
+      "keywords": ["egg", "eggs", "white egg", "chicken egg"],
+      "water_consumption": 3265,
+      "unit": "liters per kg",
+      "fun_fact": "About 196 liters per single egg! That's like running your dishwasher 13 times."
+    },
+    {
+      "name": "Milk",
+      "keywords": ["milk", "glass", "dairy", "white liquid"],
+      "water_consumption": 1020,
+      "unit": "liters per liter",
+      "fun_fact": "1000 times its own volume in water! Dairy cows need lots of water to drink and for their feed."
+    },
+    {
+      "name": "Coffee",
+      "keywords": ["coffee", "cup", "mug", "coffee bean", "espresso"],
+      "water_consumption": 18900,
+      "unit": "liters per kg",
+      "fun_fact": "Your morning cup uses 140 liters of water! That's like a 7-minute shower for one cup of coffee."
+    },
+    {
+      "name": "Tea",
+      "keywords": ["tea", "cup", "tea bag", "green tea", "black tea"],
+      "water_consumption": 8860,
+      "unit": "liters per kg",
+      "fun_fact": "About 27 liters per cup! Much more water-efficient than coffee but still significant."
+    },
+    {
+      "name": "Cotton T-shirt",
+      "keywords": ["shirt", "t-shirt", "cotton", "clothing", "fabric"],
+      "water_consumption": 2700,
+      "unit": "liters per shirt",
+      "fun_fact": "That's 18 full bathtubs of water! Cotton is one of the most water-intensive crops on Earth."
+    }
+  ]
+}
